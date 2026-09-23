@@ -17,9 +17,6 @@ the top layer
 <img width="1693" height="767" alt="image" src="https://github.com/user-attachments/assets/01774041-9ef4-4843-b26c-c586bba163b3" />
 the bottam layer
 <img width="1317" height="754" alt="image" src="https://github.com/user-attachments/assets/a7a96b7c-dd7b-446e-968e-c5731dea1fa4" />
-[hellloooooooo.csv](https://github.com/user-attachments/files/32575435/hellloooooooo.csv)
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"D1,D2,D3,D4","4","SK6812MINI-E","","","","","${EXCLUDE_FROM_POS_FILES}","hackclub:SK6812MINI-E_fixed","https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
-"SW1,SW2,SW3,SW4,SW5,SW6","6","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"SW7","1","RotaryEncoder_Switch","","","","","${EXCLUDE_FROM_POS_FILES}","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
-"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","","${EXCLUDE_FROM_POS_FILES}","hackclub:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
+# THE BOM 
+here is the list 
+<img width="827" height="120" alt="image" src="https://github.com/user-attachments/assets/f5d949bf-6177-4d67-b8da-03efa01dfca2" />
