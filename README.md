@@ -11,3 +11,9 @@ here it is in 3d viewer mode in kicad
 THE SCHEMATICS IN THIS COULD BE A LITTLE CONFUSING AS OF THE LACK OF PLACEMENT
 <img width="1532" height="856" alt="image" src="https://github.com/user-attachments/assets/21ca5ad0-5064-4209-be0f-1d502194d9dd" />
 
+# THE CASE
+now the case has to parts one is the top layer and the other is the bottam layer
+the top layer
+<img width="1693" height="767" alt="image" src="https://github.com/user-attachments/assets/01774041-9ef4-4843-b26c-c586bba163b3" />
+the bottam layer
+<img width="1317" height="754" alt="image" src="https://github.com/user-attachments/assets/a7a96b7c-dd7b-446e-968e-c5731dea1fa4" />
