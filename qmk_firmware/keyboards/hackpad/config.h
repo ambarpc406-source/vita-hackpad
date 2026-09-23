@@ -1,0 +1,16 @@
+#pragma once
+
+
+#define DEBOUNCE 5
+
+
+
+#define WS2812_BYTE_ORDER WS2812_BYTE_ORDER_GRB
+
+#define RGBLIGHT_LIMIT_VAL 80
+
+
+
+
+#define MOUSEKEY_WHEEL_DELAY 0
+#define MOUSEKEY_WHEEL_INTERVAL 50

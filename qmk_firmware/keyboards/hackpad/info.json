@@ -1,0 +1,95 @@
+{
+    "keyboard_name": "XIAO RP2040 Hackpad",
+    "manufacturer": "Custom",
+    "maintainer": "ambar",
+
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x6060",
+        "device_version": "1.0.0"
+    },
+
+    "build": {
+        "firmware_format": "uf2"
+    },
+
+    "features": {
+        "bootmagic": true,
+        "encoder": true,
+        "encoder_map": true,
+        "mousekey": true,
+        "extrakey": true,
+        "rgblight": true
+    },
+
+    "matrix_pins": {
+        "direct": [
+            ["GP26", "GP27", "GP28"],
+            ["GP29", "GP2", "GP1"]
+        ]
+    },
+
+    "encoder": {
+        "rotary": [
+            {
+                "pin_a": "GP6",
+                "pin_b": "GP7"
+            }
+        ]
+    },
+
+    "ws2812": {
+        "driver": "vendor",
+        "pin": "GP3"
+    },
+
+    "rgblight": {
+        "led_count": 4,
+        "max_brightness": 80,
+        "default": {
+            "on": true,
+            "animation": "static_light",
+            "val": 80
+        }
+    },
+
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "matrix": [0, 0],
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "matrix": [0, 1],
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "matrix": [0, 2],
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "matrix": [1, 0],
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "matrix": [1, 1],
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "matrix": [1, 2],
+                    "x": 2,
+                    "y": 1
+                }
+            ]
+        }
+    }
+}
