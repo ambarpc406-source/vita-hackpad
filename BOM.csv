@@ -1,0 +1,5 @@
+"Reference","Qty","Value","Footprint","Datasheet"
+"D1,D2,D3,D4","4","SK6812MINI-E","hackclub:SK6812MINI-E_fixed","https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
+"SW1,SW2,SW3,SW4,SW5,SW6","6","SW_Push","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
+"SW7","1","RotaryEncoder_Switch","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
+"U1","1","MOUDLE-SEEEDUINO-XIAO","hackclub:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
